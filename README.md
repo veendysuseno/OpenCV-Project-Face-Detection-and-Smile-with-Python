@@ -123,6 +123,8 @@ python script_name.py
 
 ![Results](img/results.jpg) <br/>
 
+![Results](img/results-1.jpg) <br/>
+
 ## Notes
 
 - Ensure the `img/` directory exists and contains the images you want to process.
