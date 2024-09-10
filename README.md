@@ -119,6 +119,10 @@ python script_name.py
    - Press any key to proceed to the next image.
    - Press 'e' to exit the program early.
 
+## Results Detection:
+
+![Results](img/results.jpg) <br/>
+
 ## Notes
 
 - Ensure the `img/` directory exists and contains the images you want to process.
